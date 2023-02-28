@@ -1,0 +1,17 @@
+{
+    "multistepform": [
+        {
+            "id": null,
+            "Name": null,
+            "email": null,
+            "phoneNumber": null,
+            "subscriptionPlan": null,
+            "duration": null,
+            "addonsOnlineServices": null,
+            "addonsLargerstorage": null,
+            "addonsCustomProfile": null,
+            "totalPrice": null
+
+        }
+    ]
+}
